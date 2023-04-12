@@ -1,0 +1,18 @@
+{
+    "name": "xudid/illusion",
+    "description": "Code generation package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xudid\\Illusion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Didier Moindreau",
+            "email": "dmoindreau@gmail.com"
+        }
+    ],
+    "require": {}
+}
